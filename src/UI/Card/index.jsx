@@ -4,7 +4,7 @@ import "./style.scss";
 const index = () => {
    return (
       <div className='card'>
-         {/* card elements */}
+        <h1>HEELO WORD</h1>
       </div>
    );
 };

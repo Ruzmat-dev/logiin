@@ -3,8 +3,9 @@ import "./style.scss";
 
 const index = () => {
    return (
-      <div>
-         <h1>Home</h1>
+      <div className='home'>
+       <img src="../../../public/background.jpg" alt="" />
+         
       </div>
    );
 };
